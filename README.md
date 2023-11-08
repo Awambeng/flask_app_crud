@@ -15,8 +15,8 @@ A simple Flask application for managing a list of books, demonstrating Create, R
 1. Clone the repository:
 
    ```bash
-   git clone http://adorsys-share.local:3000/TheKid999/GIS-Trainees-Flask-CRUD.git
-   cd GIS-Trainees-Flask-CRUD
+   git clone https://github.com/Awambeng/flask_app_crud.git
+   cd flask_app_crud
    ```
 
 2. Set up a virtual environment and activate it:
@@ -38,10 +38,6 @@ A simple Flask application for managing a list of books, demonstrating Create, R
    python app.py
    ```
 
-5. Open a web browser and navigate to [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to access the application.
+5. Open a web browser and navigate to [http://127.0.0.1:8080/] to access the application.
 
 
-## Contributing
-
-1. Each group clones the repository to their local machine.
-2. Students in each group create a new branch for the specific feature they are working on (e.g., `feature-add-book`, `feature-update-book`, etc.).
